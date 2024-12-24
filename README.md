@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates a common off-by-one error in array iteration. The bug is explained in detail, and a solution is provided that corrects the error.
